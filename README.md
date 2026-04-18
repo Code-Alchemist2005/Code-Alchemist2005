@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Shreya Gandroli
+# Hi 👋, I'm Shreya Gandroli
 
-🎓 Computer Science Student  
-💻 Passionate about Web Development & Networking  
-🚀 Interested in Open Source and Building Real-World Projects  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Networking+Enthusiast&center=true&width=500&height=50">
+</p> 
 
 ---
 
