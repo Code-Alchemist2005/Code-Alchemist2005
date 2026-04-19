@@ -5,26 +5,14 @@
 </p> 
 
 ---
+## 💫 About Me
 
-💫 About Me:
+I am a Computer Science student with a strong interest in networking, backend development, and building practical, real-world systems. I enjoy working on projects that combine problem-solving with implementation, particularly in areas like network security and web applications.
 
-🔭 I’m currently working on  
-- JA3 Intrusion Detection System (Network Security Project)
+Currently, I am working on a JA3-based Intrusion Detection System, focusing on analyzing TLS fingerprints to identify suspicious network activity.
 
-🤝 I’m looking to collaborate on  
-- Open Source Projects related to Networking & Web Development  
+I am looking to collaborate on open-source projects and continue improving my skills in backend development and system design.
 
-🆘 I’m looking for help with  
-- Advanced Backend Development and System Design  
-
-🌱 I’m currently learning  
-- Spring Boot, Node.js, and Computer Networks  
-
-💬 Ask me about  
-- Networking basics, REST APIs, and Web Development  
-
-⚡ Fun fact  
-- I love building real-world projects that solve practical problems 🚀  
 ---
 
 ## 🛠️ Skills
