@@ -7,7 +7,7 @@
 ---
 ## 💫 About Me
 
-I am a Computer Science student with a strong interest in networking, backend development, and building practical, real-world systems. I enjoy working on projects that combine problem-solving with implementation, particularly in areas like network security and web applications.
+I am a Computer Science student with a strong interest in networking and building practical, real-world systems. I enjoy working on projects that combine problem-solving with implementation, particularly in areas like network security and web applications.
 
 Currently, I am working on a JA3-based Intrusion Detection System, focusing on analyzing TLS fingerprints to identify suspicious network activity.
 
@@ -30,11 +30,13 @@ I am looking to collaborate on open-source projects and continue improving my sk
 - Enabled real-time monitoring and detection of suspicious encrypted traffic patterns  
 - Built a scalable and modular architecture for efficient network security analysis
      
-### 🌍 SK Travels – Full Stack Booking Application- Developed a full-stack travel booking application using Node.js, Express, and MongoDB  
-[View Project](https://github.com/Code-Alchemist2005/sk-travels)
-- Designed RESTful APIs for handling user bookings and data management  
-- Implemented dynamic user interface and backend integration  
-- Enabled efficient booking management and data storage
+### 🚀 Employee Management System – CI/CD Automation
+[View Project](https://github.com/Code-Alchemist2005/devops_project)
+- Developed an employee management application and automated its delivery through an end-to-end CI/CD pipeline using **GitHub and Jenkins**
+- Integrated **Jenkins** with GitHub to automate application build, code quality analysis, and deployment workflows
+- Containerized the application using **Docker** and deployed it on **AWS EC2** for consistent and reliable releases
+- Integrated **SonarQube** for code quality analysis and **Prometheus & Grafana** for application monitoring and visualization
+
 
 
 ## 🌐 Socials:
