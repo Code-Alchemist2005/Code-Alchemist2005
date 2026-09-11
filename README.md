@@ -49,7 +49,6 @@ I am looking to collaborate on open-source projects and continue improving my sk
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Code-Alchemist2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Code-Alchemist2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Code-Alchemist2005&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
